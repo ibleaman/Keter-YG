@@ -1,5 +1,14 @@
 Ancient Semitic Fonts
 =====================
+29-Jul-2017 Version  0.06-2
+---------------------------   
+1. Updated KeterYG-Medium and KeterYG-MediumOblique to render the yodyodpatah
+   ligature variants by default, improving coverage for Standard Yiddish.
+2. Updated KeterYG-Bold and KeterYG-BoldOblique to include ligature characters
+   for Standard Yiddish, and to render those by default.
+(Changes by Isaac L. Bleaman (ibleaman@nyu.edu) Github: @ibleaman)
+
+
 21-Mar-2010 Version  0.06-1
 ---------------------------   
 1.  ProtoCanaanite, all Paleo-Hebrew and Aramaic-Early-Br-Rkb
